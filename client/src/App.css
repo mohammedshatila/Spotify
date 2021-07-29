@@ -1,0 +1,43 @@
+.ratings{
+  margin-right: 70px;
+  margin-bottom: 20px;
+
+}
+.albums
+ {
+  margin-right: 50px;
+}
+.card {
+  margin: 1rem;
+  float: left;
+  min-height: 15%;
+  display: block;
+ 
+
+  }
+  .Title{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; 
+   -webkit-box-orient: vertical
+  }
+
+.button{
+  
+  width: 300px;
+}
+.Icon{
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
